@@ -12,7 +12,7 @@
   "id": "did:web:vivekpatel1234.github.io:did2020#z6MkgVjPzQxtgZ7wQzzBuWYGB7q65Y2zbpMun5xiYoPfCpia",
   "type": "Ed25519VerificationKey2020",
   "controller": "did:web:vivekpatel1234.github.io:did2020",
-  "publicKeyMultibase": "z6MkgVjPzQxtgZ7wQzzBuWYGB7q65Y2zbpMun5xiYoPfCpia"
+  "publicKeyBase58": "z6MkgVjPzQxtgZ7wQzzBuWYGB7q65Y2zbpMun5xiYoPfCpia"
 }
   ],
   "alsoKnownAs": [
